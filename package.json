@@ -1,0 +1,19 @@
+{
+  "name": "asincronismo_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Jonathan Amaya",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type" : "module"
+}
